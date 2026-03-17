@@ -72,3 +72,4 @@ function reiniciarJogo() {
 
 
 
+//bug inesperado
